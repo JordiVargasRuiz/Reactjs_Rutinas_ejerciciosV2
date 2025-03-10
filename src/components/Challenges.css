@@ -1,0 +1,98 @@
+/* Contenedor principal */
+.container {
+    max-width: 1200px;
+    margin-top: 50px;
+  }
+  
+  /* Estilo de los títulos */
+  h1 {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #3E4C59;
+  }
+  
+  h5.card-title {
+    font-family: 'Arial', sans-serif;
+    font-weight: 600;
+    color: #3A3A3A;
+  }
+  
+  p.card-text {
+    font-size: 1.1rem;
+    color: #4A4A4A;
+  }
+  
+  /* Estilo para los botones grandes */
+  .btn-lg {
+    font-size: 1.1rem;
+    padding: 12px 20px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+  
+  /* Efecto hover para los botones */
+  .btn:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Barra de progreso */
+  .progress-bar {
+    border-radius: 10px;
+    height: 20px;
+  }
+  
+  /* Estilos para el selector de rango (Días) */
+  .form-range {
+    width: 80%;
+    margin: 10px 0;
+  }
+  
+  /* Fondo y sombra de las tarjetas */
+  .card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0px 12px 18px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card:hover {
+    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Estilo para el formulario */
+  .input-group {
+    border-radius: 10px;
+  }
+  
+  /* Colores para los botones */
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+  }
+  
+  .btn-warning {
+    background-color: #ffc107;
+    border: none;
+  }
+  
+  .btn-warning:hover {
+    background-color: #e0a800;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border: none;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+  }
+  
