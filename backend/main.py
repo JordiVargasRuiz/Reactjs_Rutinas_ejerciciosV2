@@ -6,7 +6,7 @@ from uuid import uuid4
 import firebase_admin
 from firebase_admin import credentials, firestore
 
-cred = credentials.Certificate("path/to/your/firebase-credentials.json")
+cred = credentials.Certificate("public/backend/rutinasejercicios-6c3a5-firebase-adminsdk-fbsvc-f964c09ba7.json")
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
