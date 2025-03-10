@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Reactjs_Rutinas_ejerciciosV2/static/css/main.3905e3e3.css",
+    "main.js": "/Reactjs_Rutinas_ejerciciosV2/static/js/main.46c0087c.js",
+    "static/js/453.27ae94ae.chunk.js": "/Reactjs_Rutinas_ejerciciosV2/static/js/453.27ae94ae.chunk.js",
+    "static/media/vision.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/vision.32441514341335eec55f.jpg",
+    "static/media/plan1.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/plan1.fa7944fd2ca1094b2348.jpg",
+    "static/media/slide2.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/slide2.03235204434fc35a74d0.jpg",
+    "static/media/slide1.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/slide1.ae765749a8bbb9fc6243.jpg",
+    "static/media/slide3.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/slide3.ce1927504bda99d9a420.jpg",
+    "static/media/valor.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/valor.9e88cdf41a5aea1498df.jpg",
+    "static/media/mision.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/mision.140e4dea436e7fc161b4.jpg",
+    "static/media/plan2.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/plan2.c19aa4c767adedf37b5f.jpg",
+    "static/media/img_log.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/img_log.59d201cd2893c395fcc1.jpg",
+    "static/media/fondo_servicios.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/fondo_servicios.fa85a03681e7a8a16612.jpg",
+    "static/media/img_reg.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/img_reg.20ea67c93e84fc087154.jpg",
+    "static/media/fondo_contacto.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/fondo_contacto.24672ea9a4c020a9c042.jpg",
+    "static/media/fondo_nosotros.jpg": "/Reactjs_Rutinas_ejerciciosV2/static/media/fondo_nosotros.abf254126c63a69e58d0.jpg",
+    "index.html": "/Reactjs_Rutinas_ejerciciosV2/index.html",
+    "main.3905e3e3.css.map": "/Reactjs_Rutinas_ejerciciosV2/static/css/main.3905e3e3.css.map",
+    "main.46c0087c.js.map": "/Reactjs_Rutinas_ejerciciosV2/static/js/main.46c0087c.js.map",
+    "453.27ae94ae.chunk.js.map": "/Reactjs_Rutinas_ejerciciosV2/static/js/453.27ae94ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3905e3e3.css",
+    "static/js/main.46c0087c.js"
+  ]
+}
