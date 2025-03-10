@@ -95,7 +95,7 @@ function Dashboard() {
               </a>
 
               {/* Enlace Desafíos */}
-              <a href="/Reactjs_Rutinas_ejerciciosV2/challenges" className="nav-link text-white">
+              <a href="/challenges" className="nav-link text-white">
                 Desafíos
               </a>
             </div>
